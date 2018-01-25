@@ -1,0 +1,26 @@
+
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3b679e+0,2b88d9+50,7db9e8+100 */
+background: rgb(59,103,158); /* Old browsers */
+background: -moz-linear-gradient(45deg, rgba(59,103,158,1) 0%, rgba(43,136,217,1) 50%, rgba(125,185,232,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, rgba(59,103,158,1) 0%,rgba(43,136,217,1) 50%,rgba(125,185,232,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, rgba(59,103,158,1) 0%,rgba(43,136,217,1) 50%,rgba(125,185,232,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b679e', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+height: 100vh;
+overflow: hidden;
+}
+h1{
+	font-family: "Raleway";
+	text-align: center;
+	font-size: 3.5rem;
+	margin-top: 30px;
+	text-transform: uppercase;
+	color: white;
+}
+.loginDiv{
+	background-color: white;
+	border-radius: 5px;
+	margin-top: 15px;
+	min-height: 500px;
+	padding-top: 20px;
+}
